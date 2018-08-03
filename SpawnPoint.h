@@ -7,7 +7,7 @@
 #include "SpawnPoint.generated.h"
 
 UCLASS()
-class OPTIMIZEDSPAWNING_API ASpawnPoint : public AActor
+class ASpawnPoint : public AActor
 {
 	GENERATED_BODY()
 	
